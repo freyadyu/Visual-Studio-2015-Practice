@@ -1,0 +1,12 @@
+c:\users\dianyu\documents\visual studio 2015\Projects\Decisions\Decisions\bin\Debug\Decisions.exe.config
+c:\users\dianyu\documents\visual studio 2015\Projects\Decisions\Decisions\bin\Debug\Decisions.exe
+c:\users\dianyu\documents\visual studio 2015\Projects\Decisions\Decisions\bin\Debug\Decisions.pdb
+c:\users\dianyu\documents\visual studio 2015\Projects\Decisions\Decisions\obj\Debug\Decisions.csprojResolveAssemblyReference.cache
+c:\users\dianyu\documents\visual studio 2015\Projects\Decisions\Decisions\obj\Debug\Decisions.exe
+c:\users\dianyu\documents\visual studio 2015\Projects\Decisions\Decisions\obj\Debug\Decisions.pdb
+C:\Users\dianyu\Documents\Visual Studio 2015\Projects\Own Practice\Decisions\Decisions\bin\Debug\Decisions.exe.config
+C:\Users\dianyu\Documents\Visual Studio 2015\Projects\Own Practice\Decisions\Decisions\obj\Debug\Decisions.exe
+C:\Users\dianyu\Documents\Visual Studio 2015\Projects\Own Practice\Decisions\Decisions\obj\Debug\Decisions.pdb
+C:\Users\dianyu\Documents\Visual Studio 2015\Projects\Own Practice\Decisions\Decisions\bin\Debug\Decisions.exe
+C:\Users\dianyu\Documents\Visual Studio 2015\Projects\Own Practice\Decisions\Decisions\bin\Debug\Decisions.pdb
+C:\Users\dianyu\Documents\Visual Studio 2015\Projects\Own Practice\Decisions\Decisions\obj\Debug\Decisions.csprojResolveAssemblyReference.cache

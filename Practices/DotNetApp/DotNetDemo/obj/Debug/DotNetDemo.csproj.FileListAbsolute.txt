@@ -1,0 +1,6 @@
+C:\Users\dianyu\Documents\Visual Studio 2015\Projects\Own Practice\DotNetApp\DotNetDemo\bin\Debug\DotNetDemo.exe.config
+C:\Users\dianyu\Documents\Visual Studio 2015\Projects\Own Practice\DotNetApp\DotNetDemo\bin\Debug\DotNetDemo.exe
+C:\Users\dianyu\Documents\Visual Studio 2015\Projects\Own Practice\DotNetApp\DotNetDemo\bin\Debug\DotNetDemo.pdb
+C:\Users\dianyu\Documents\Visual Studio 2015\Projects\Own Practice\DotNetApp\DotNetDemo\obj\Debug\DotNetDemo.csprojResolveAssemblyReference.cache
+C:\Users\dianyu\Documents\Visual Studio 2015\Projects\Own Practice\DotNetApp\DotNetDemo\obj\Debug\DotNetDemo.exe
+C:\Users\dianyu\Documents\Visual Studio 2015\Projects\Own Practice\DotNetApp\DotNetDemo\obj\Debug\DotNetDemo.pdb

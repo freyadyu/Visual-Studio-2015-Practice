@@ -1,0 +1,6 @@
+C:\Users\dianyu\Documents\Visual Studio 2015\Projects\Own Practice\UnderstandingEnumeration\UnderstandingEnumeration\bin\Debug\UnderstandingEnumeration.exe.config
+C:\Users\dianyu\Documents\Visual Studio 2015\Projects\Own Practice\UnderstandingEnumeration\UnderstandingEnumeration\bin\Debug\UnderstandingEnumeration.exe
+C:\Users\dianyu\Documents\Visual Studio 2015\Projects\Own Practice\UnderstandingEnumeration\UnderstandingEnumeration\bin\Debug\UnderstandingEnumeration.pdb
+C:\Users\dianyu\Documents\Visual Studio 2015\Projects\Own Practice\UnderstandingEnumeration\UnderstandingEnumeration\obj\Debug\UnderstandingEnumeration.csprojResolveAssemblyReference.cache
+C:\Users\dianyu\Documents\Visual Studio 2015\Projects\Own Practice\UnderstandingEnumeration\UnderstandingEnumeration\obj\Debug\UnderstandingEnumeration.exe
+C:\Users\dianyu\Documents\Visual Studio 2015\Projects\Own Practice\UnderstandingEnumeration\UnderstandingEnumeration\obj\Debug\UnderstandingEnumeration.pdb

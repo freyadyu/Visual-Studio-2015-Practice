@@ -1,0 +1,5 @@
+C:\Users\dianyu\Documents\Visual Studio 2015\Projects\Own Practice\UnderstandingInheritance\UnderstandingInheritance\bin\Debug\UnderstandingInheritance.exe.config
+C:\Users\dianyu\Documents\Visual Studio 2015\Projects\Own Practice\UnderstandingInheritance\UnderstandingInheritance\bin\Debug\UnderstandingInheritance.exe
+C:\Users\dianyu\Documents\Visual Studio 2015\Projects\Own Practice\UnderstandingInheritance\UnderstandingInheritance\bin\Debug\UnderstandingInheritance.pdb
+C:\Users\dianyu\Documents\Visual Studio 2015\Projects\Own Practice\UnderstandingInheritance\UnderstandingInheritance\obj\Debug\UnderstandingInheritance.exe
+C:\Users\dianyu\Documents\Visual Studio 2015\Projects\Own Practice\UnderstandingInheritance\UnderstandingInheritance\obj\Debug\UnderstandingInheritance.pdb

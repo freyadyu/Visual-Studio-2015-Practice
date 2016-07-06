@@ -1,0 +1,5 @@
+C:\Users\dianyu\Documents\Visual Studio 2015\Projects\Own Practice\SearchEngineApp\Search.Model\bin\Debug\Search.Model.dll
+C:\Users\dianyu\Documents\Visual Studio 2015\Projects\Own Practice\SearchEngineApp\Search.Model\bin\Debug\Search.Model.pdb
+C:\Users\dianyu\Documents\Visual Studio 2015\Projects\Own Practice\SearchEngineApp\Search.Model\obj\Debug\Search.Model.csprojResolveAssemblyReference.cache
+C:\Users\dianyu\Documents\Visual Studio 2015\Projects\Own Practice\SearchEngineApp\Search.Model\obj\Debug\Search.Model.dll
+C:\Users\dianyu\Documents\Visual Studio 2015\Projects\Own Practice\SearchEngineApp\Search.Model\obj\Debug\Search.Model.pdb

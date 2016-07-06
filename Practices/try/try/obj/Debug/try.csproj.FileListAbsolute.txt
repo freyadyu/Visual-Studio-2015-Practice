@@ -1,0 +1,6 @@
+C:\Users\dianyu\Documents\Visual Studio 2015\Projects\Own Practice\try\try\bin\Debug\@try.exe.config
+C:\Users\dianyu\Documents\Visual Studio 2015\Projects\Own Practice\try\try\bin\Debug\@try.exe
+C:\Users\dianyu\Documents\Visual Studio 2015\Projects\Own Practice\try\try\bin\Debug\@try.pdb
+C:\Users\dianyu\Documents\Visual Studio 2015\Projects\Own Practice\try\try\obj\Debug\try.csprojResolveAssemblyReference.cache
+C:\Users\dianyu\Documents\Visual Studio 2015\Projects\Own Practice\try\try\obj\Debug\@try.exe
+C:\Users\dianyu\Documents\Visual Studio 2015\Projects\Own Practice\try\try\obj\Debug\@try.pdb

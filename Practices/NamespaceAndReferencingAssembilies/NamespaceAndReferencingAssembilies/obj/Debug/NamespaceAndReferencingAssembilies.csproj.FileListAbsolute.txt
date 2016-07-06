@@ -1,0 +1,2 @@
+c:\users\dianyu\documents\visual studio 2015\Projects\NamespaceAndReferencingAssembilies\NamespaceAndReferencingAssembilies\bin\Debug\NamespaceAndReferencingAssembilies.exe.config
+C:\Users\dianyu\Documents\Visual Studio 2015\Projects\Own Practice\NamespaceAndReferencingAssembilies\NamespaceAndReferencingAssembilies\bin\Debug\NamespaceAndReferencingAssembilies.exe.config
